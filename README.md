@@ -25,6 +25,8 @@
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
+![GenderDemographics](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/GenderDemographics.PNG)
+
 ### Purchasing Analysis (Gender)
 
 * The below each broken by gender
