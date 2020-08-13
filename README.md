@@ -9,12 +9,13 @@
   
 ![PlayerCount](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PlayerCount.PNG)
 
-### Purchasing Analysis (Total)
+  2. Total Purchasing Analysis
+  * Number of Unique Items
+  * Average Purchase Price
+  * Total Number of Purchases
+  * Total Revenue
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+![PurchaseAnalysis](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PurchaseAnalysis.PNG)
 
 ### Gender Demographics
 
