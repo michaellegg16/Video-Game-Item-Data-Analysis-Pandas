@@ -34,6 +34,8 @@
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+  
+![GenderPurchases](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/GenderPurchases.PNG)
  
 ### Age Demographics
 
@@ -42,6 +44,9 @@
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+  
+![AgeDemographics](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/AgeDemographics.PNG)
+![AgeAnalysis](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/AgeAnalysis.PNG)
 
 ### Top Spenders
 
@@ -50,6 +55,8 @@
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+  
+![TopSpenders](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/TopSpenders.PNG)
 
 ### Most Popular Items
 
@@ -60,6 +67,8 @@
   * Item Price
   * Total Purchase Value
 
+![MostPopularItems](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/MostPopularItems.PNG)
+
 ### Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -69,9 +78,6 @@
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+![MostProfitableItems](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/MostProfitableItems.PNG)
 
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
 
