@@ -5,8 +5,7 @@
 * Analyze the in-game item-purchase data for a fictional video game using Pandas.
 * Generate a report that breaks down the game's purchsing data into meaningful insights.
 * The final report should include:
-1. Player Count
-* Total Number of Players
+  1. Player Count
 ![PlayerCount](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PlayerCount.PNG)
 
 ### Purchasing Analysis (Total)
