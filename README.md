@@ -45,7 +45,6 @@
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
   
-![AgeDemographics](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/AgeDemographics.PNG)
 ![AgeAnalysis](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/AgeAnalysis.PNG)
 
 ### Top Spenders
