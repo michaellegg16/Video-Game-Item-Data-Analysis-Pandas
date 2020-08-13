@@ -6,6 +6,7 @@
 * Generate a report that breaks down the game's purchsing data into meaningful insights.
 * The final report should include:
   1. Player Count
+  
 ![PlayerCount](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PlayerCount.PNG)
 
 ### Purchasing Analysis (Total)
