@@ -9,11 +9,11 @@
   
 ![PlayerCount](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PlayerCount.PNG)
 
-  2. Total Purchasing Analysis
-  * Number of Unique Items
-  * Average Purchase Price
-  * Total Number of Purchases
-  * Total Revenue
+  1. Total Purchasing Analysis
+    * Number of Unique Items
+    * Average Purchase Price
+    * Total Number of Purchases
+    * Total Revenue
 
 ![PurchaseAnalysis](https://github.com/michaellegg16/pandas-challenge/blob/master/Screenshots/PurchaseAnalysis.PNG)
 
