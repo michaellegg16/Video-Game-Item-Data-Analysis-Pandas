@@ -34,7 +34,7 @@
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
-
+ 
 ### Age Demographics
 
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
